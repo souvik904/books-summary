@@ -1,0 +1,40 @@
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #fffdf7;
+  color: #333;
+  padding-bottom: 40px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #d35400;
+  margin: 0;
+}
+
+p {
+  color: #8d4a00;
+  margin-bottom: 15px;
+}
+
+img {
+  width: 250px;
+  border-radius: 12px;
+}
+
+main {
+  max-width: 700px;
+  margin: auto;
+  padding: 30px 20px;
+}
+
+section h2 {
+  color: #bf360c;
+  font-size: 24px;
+}
+
+section p {
+  line-height: 1.6;
+  margin: 10px 0;
+}
